@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Burhan/static/css/main.31aaa6d1.chunk.css",
+    "main.js": "/Burhan/static/js/main.a7ce5d36.chunk.js",
+    "main.js.map": "/Burhan/static/js/main.a7ce5d36.chunk.js.map",
+    "runtime-main.js": "/Burhan/static/js/runtime-main.5c5781f6.js",
+    "runtime-main.js.map": "/Burhan/static/js/runtime-main.5c5781f6.js.map",
+    "static/js/2.a629af0d.chunk.js": "/Burhan/static/js/2.a629af0d.chunk.js",
+    "static/js/2.a629af0d.chunk.js.map": "/Burhan/static/js/2.a629af0d.chunk.js.map",
+    "static/js/3.b5d9aab7.chunk.js": "/Burhan/static/js/3.b5d9aab7.chunk.js",
+    "static/js/3.b5d9aab7.chunk.js.map": "/Burhan/static/js/3.b5d9aab7.chunk.js.map",
+    "index.html": "/Burhan/index.html",
+    "static/css/main.31aaa6d1.chunk.css.map": "/Burhan/static/css/main.31aaa6d1.chunk.css.map",
+    "static/js/2.a629af0d.chunk.js.LICENSE.txt": "/Burhan/static/js/2.a629af0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c5781f6.js",
+    "static/js/2.a629af0d.chunk.js",
+    "static/css/main.31aaa6d1.chunk.css",
+    "static/js/main.a7ce5d36.chunk.js"
+  ]
+}
