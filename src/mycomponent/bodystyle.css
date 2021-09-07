@@ -1,0 +1,28 @@
+.scl img{
+    height: 150px;
+    width: 150px;
+    margin-top: 5px;
+   
+}
+a{
+    
+    color: black;
+}
+.scl{
+    border: 4px solid rgb(221, 94, 94);
+  border-radius: 50px;
+  background-color: rgb(250, 248, 248);
+}
+.btn2{
+    margin-bottom: 8px;
+    border: 4px solid white;
+    border-radius: 30px;
+}
+.aimg{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+.back{
+    background-color: #f3f0f0;
+}
